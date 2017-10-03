@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerCharacter
+  - PlayerInfluence
+  - Spawn
+  - FoePlayerController
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Block
+  - Wave
+  - Player
+  - PlayerFeet
+  - PlatformCollider
+  - PlayerTronche
+  - Item
+  - PlatformOneWay
+  - CloudLimit
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 581993193
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
